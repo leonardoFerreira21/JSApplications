@@ -24,3 +24,14 @@ function teste(i,j){
 //chamando função
 teste(4,3);
 
+//Operador aritmético para potencia **
+let pot1 = 2;
+let pot2 = 10;
+let resultado = (pot1 ** pot2);
+console.log(resultado);
+
+//conversão para int e floar
+let num1 = parseInt('5.2');
+let num2 = parseFloat('5');
+console.log(num1 , num2)
+

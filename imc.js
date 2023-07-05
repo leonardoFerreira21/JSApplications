@@ -9,3 +9,5 @@ let imc = peso / (altura * altura);
 let anoNasc = 2023 - idade;
 console.log(imc);
 console.log(anoNasc);
+
+
